@@ -1,5 +1,5 @@
 {
-  "name": "kmeans",
+  "name": "@ridwan-p/kmeans",
   "version": "1.0.0",
   "description": "kmeans",
   "main": "dist/kmeans.js",

@@ -1,5 +1,6 @@
 # K-Means
 [![Latest Release](https://img.shields.io/github/v/release/ridwan-p/kmeans.svg)](https://github.com/ridwan-p/kmeans/releases)
+[![npm version](https://badge.fury.io/js/@ridwan-p%2Fkmeans.svg)](https://badge.fury.io/js/@ridwan-p%2Fkmeans)
 
 K-Means clustering algorithm implementation written in javascript
 

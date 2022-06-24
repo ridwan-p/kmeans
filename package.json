@@ -1,6 +1,6 @@
 {
   "name": "@ridwan-p/kmeans",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kmeans",
   "homepage": "https://github.com/ridwan-p/kmeans#readme.md",
   "main": "dist/kmeans.js",

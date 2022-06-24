@@ -1,7 +1,8 @@
 {
   "name": "@ridwan-p/kmeans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kmeans",
+  "homepage": "https://github.com/ridwan-p/kmeans#readme.md",
   "main": "dist/kmeans.js",
   "author": "ridwan pamungkas <ridwan.pamungks@gmail.com> (https://ridwanpa.com/)",
   "license": "MIT",
@@ -10,6 +11,10 @@
     "datamining",
     "algorithm"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ridwan-p/kmeans"
+  },
   "scripts": {
     "build": "rollup -c",
     "test": "jest",

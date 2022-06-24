@@ -18,7 +18,7 @@ const data = [
     [6.3, 3.18], [6.4, 3.2], [3.9, 3.29],
   ];
   
-const kmeans = new Kmeans(data3D, 3)
+const kmeans = new Kmeans(data, 3)
 // calculate
 kmeans.run()
   .then( res => { console.log('result', res) } )

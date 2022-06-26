@@ -6,10 +6,19 @@
   "main": "dist/kmeans.js",
   "author": "ridwan pamungkas <ridwan.pamungks@gmail.com> (https://ridwanpa.com/)",
   "license": "MIT",
+  "types": "kmeans.d.ts",
   "keywords": [
     "kmeans",
+    "k-means",
     "datamining",
-    "algorithm"
+    "clustering",
+    "data",
+    "mining",
+    "machine",
+    "learning",
+    "cluster",
+    "algorithm",
+    "data science"
   ],
   "repository": {
     "type": "git",
@@ -28,6 +37,7 @@
     "rollup": "^2.75.7"
   },
   "files": [
+    "*.d.ts",
     "dist"
   ]
 }
